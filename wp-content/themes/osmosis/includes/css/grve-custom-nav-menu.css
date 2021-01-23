@@ -1,0 +1,11 @@
+.grve-item-type-megamenu {
+	display: none;
+	padding: 12px 16px;
+	color: #666;
+	font-size: 12px;
+	font-style: italic;
+	line-height: 1.5;
+}
+.grve-megamenu-active .grve-item-type-megamenu {
+	display: inline-block;
+}

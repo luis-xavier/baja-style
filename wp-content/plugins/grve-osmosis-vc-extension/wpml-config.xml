@@ -1,0 +1,228 @@
+<wpml-config>
+	<shortcodes>
+		<shortcode>
+			<tag>grve_blog</tag>
+			<attributes>
+				<attribute>categories</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_button</tag>
+			<attributes>
+				<attribute>button_text</attribute>
+				<attribute encoding="vc_link" type="link">button_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_callout</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>button_text</attribute>
+				<attribute encoding="vc_link" type="link">button_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_countdown</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_counter</tag>
+			<attributes>
+				<attribute>counter_prefix</attribute>
+				<attribute>counter_suffix</attribute>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_divider</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>backtotop_title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_dropcap</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_gallery</tag>
+			<attributes>
+				<attribute type="media-ids">ids</attribute>
+				<attribute>custom_links</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_gmap</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_go_pricing</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_icon</tag>
+			<attributes>
+				<attribute encoding="vc_link" type="link">link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_icon_box</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>icon_char</attribute>
+				<attribute encoding="vc_link" type="link">link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_image_text</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>video_link</attribute>
+				<attribute>read_more_title</attribute>
+				<attribute encoding="vc_link" type="link">read_more_link</attribute>
+				<attribute type="media-ids">image</attribute>
+				<attribute type="media-ids">retina_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_list</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_media_box</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute encoding="vc_link" type="link">title_link</attribute>
+				<attribute>video_link</attribute>
+				<attribute>read_more_title</attribute>
+				<attribute type="media-ids">image</attribute>
+				<attribute type="media-ids">retina_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_message_box</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_pie_chart</tag>
+			<attributes>
+				<attribute>pie_chart_val</attribute>
+				<attribute>pie_chart_prefix</attribute>
+				<attribute>pie_chart_suffix</attribute>
+				<attribute>title</attribute>
+				<attribute>pie_chart_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_portfolio</tag>
+			<attributes>
+				<attribute>portfolio_link_type_title</attribute>
+				<attribute>categories</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_pricing_table</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>price</attribute>
+				<attribute>interval</attribute>
+				<attribute>values</attribute>
+				<attribute>button_text</attribute>
+				<attribute encoding="vc_link" type="link">button_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_privacy_gfonts</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_privacy_gmaps</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_privacy_gtracking</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_privacy_policy_page_link</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_privacy_preferences_link</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_privacy_required</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_privacy_video_embeds</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_progress_bar</tag>
+			<attributes>
+				<attribute>values</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_promo</tag>
+			<attributes>
+				<attribute>button_text</attribute>
+				<attribute encoding="vc_link" type="link">button_link</attribute>
+				<attribute type="media-ids">image</attribute>
+				<attribute type="media-ids">retina_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_quote</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_single_image</tag>
+			<attributes>
+				<attribute>custom_title</attribute>
+				<attribute>custom_caption</attribute>
+				<attribute encoding="vc_link" type="link">link</attribute>
+				<attribute>video_link</attribute>
+				<attribute type="media-ids">image</attribute>
+				<attribute type="media-ids">retina_image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_slider</tag>
+			<attributes>
+				<attribute type="media-ids">ids</attribute>
+				<attribute>custom_title</attribute>
+				<attribute>custom_caption</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_slogan</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+				<attribute>button_text</attribute>
+				<attribute encoding="vc_link" type="link">button_link</attribute>
+				<attribute>button2_text</attribute>
+				<attribute encoding="vc_link" type="link">button2_link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_social</tag>
+		</shortcode>
+		<shortcode>
+			<tag>grve_team</tag>
+			<attributes>
+				<attribute>name</attribute>
+				<attribute>identity</attribute>
+				<attribute encoding="vc_link" type="link">link</attribute>
+				<attribute type="media-ids">image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_testimonial</tag>
+			<attributes>
+				<attribute>categories</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_title</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>grve_video</tag>
+			<attributes>
+				<attribute>video_link</attribute>
+			</attributes>
+		</shortcode>
+	</shortcodes>
+</wpml-config>

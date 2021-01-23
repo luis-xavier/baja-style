@@ -1,0 +1,175 @@
+/*	Reset  */
+h1, h2, h3, h4, h5, h6,
+blockquote, pre, cite, code,
+tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/*	Tables  */
+
+table {
+	width: 100%;
+	margin-bottom: 30px;
+	border: 1px solid;
+	border-collapse: collapse;
+	cursor: default;
+}
+
+.mce-item-table,
+.mce-item-table td,
+.mce-item-table th,
+.mce-item-table caption {
+	border: 1px solid;
+}
+
+tr {
+	-webkit-transition: background-color 0.2s ease;
+	transition: background-color 0.2s ease;
+	border-bottom: 1px solid;
+}
+
+td,
+th {
+	padding: 10px 20px 10px 20px;
+	line-height: 1.5;
+	border-right: 1px solid;
+	text-align: center;
+}
+
+th:last-child {
+	border: none;
+}
+
+
+/*	Headings  */
+
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.6em;
+}
+h3 {
+    font-size: 1.4em;
+}
+h4 {
+    font-size: 1.2em;
+}
+h5 {
+    font-size: 1.1em;
+}
+h6 {
+    font-size: 1em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	line-height: 1.4em;
+	margin-bottom: 0.400em;
+}
+
+/* More Link*/
+
+.more-link {
+	display: block;
+	margin-top: 10px;
+}
+
+/*	List  */
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+ul,
+ol {
+	margin-bottom: 28px;
+	margin-left:20px;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left:20px;
+}
+
+
+/* Other elements */
+
+cite,
+em,
+var,
+address,
+dfn {
+	font-style: italic;
+}
+
+address {
+	margin-bottom: 30px;
+}
+
+dl {
+	margin-bottom: 30px;
+}
+dt {
+	font-family: inherit;
+}
+
+dd {
+	padding-left: 15px;
+}
+
+code,
+kbd,
+tt,
+var,
+samp,
+pre {
+	font: 12px "Courier New", Courier, monospace;
+	-webkit-hyphens: none;
+	-moz-hyphens:    none;
+	-ms-hyphens:     none;
+	hyphens:         none;
+	line-height: 1.6;
+}
+
+pre {
+	display: block;
+	clear: both;
+	overflow: auto;
+	padding: 20px;
+	white-space: pre;
+	overflow-x: auto;
+	height: auto;
+	margin: 30px 0;
+	color: #B5C1CE;
+	background-color: #EDF0F3;
+	background-color: rgba(225,227,229,0.5);
+}
+
+sup{
+	vertical-align: super;
+	font-size: smaller;
+}
+
+sub{
+	vertical-align: sub;
+	font-size: smaller;
+}
+
+strong {
+	font-weight: bold;
+}
+
+cite,
+code {
+	letter-spacing: 0.300em;
+}

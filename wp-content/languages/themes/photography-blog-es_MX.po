@@ -1,0 +1,382 @@
+# Translation of Themes - Photography Blog in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Photography Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-03 14:06:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Photography Blog\n"
+
+#. Theme Name of the theme
+msgid "Photography Blog"
+msgstr "Photography Blog"
+
+#. Description of the theme
+msgid "A clean beautiful and minimal blog theme designed specifically for bloggers to make blogs for photography, food, fashion, lifestyle, magazines, travel, sports, technology, as well as modern newspaper websites. photography WordPress theme that comes with high-quality features and minimal design. Photography Blog is simple, clean, elegant, and straightforward. It is ideal for creating photography websites for photographers, graphic designers, freelancers, artists, or bloggers. It comes with customizer API based features that are extremely lite and easy to handle, as it just has all to take your photoblogs to the next level."
+msgstr "Un tema de blog limpio, hermoso y minimalista diseñado específicamente para blogueros para hacer blogs de fotografía, comida, moda, estilo de vida, revistas, viajes, deportes, tecnología, así como webs de periódicos modernos. Tema para WordPress de fotografía que viene con funcionalidades de alta calidad y diseño minimalista. Photography Blog es simple, limpio, elegante y directo. Es ideal para crear webs de fotografía para fotógrafos, diseñadores gráficos, autónomos, artistas o blogueros. Viene con características personalizadas basadas en API que son extremadamente sencillas y fáciles de manejar, ya que solo tiene todo para llevar tus fotoblogs al siguiente nivel."
+
+#: inc/custom-header.php:36
+msgid "Default Header Image"
+msgstr "Imagen predeterminada de la cabecera"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+msgid "Tagged In %1$s"
+msgstr "Etiquetado: %1$s"
+
+#: inc/customizer/customizer.php:84
+msgid "Buy Pro"
+msgstr "Compra la versión Pro"
+
+#: inc/customizer/customizer.php:83
+msgid "Photography Blog Plus"
+msgstr "Photography Blog Plus"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:59
+msgid "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+msgstr "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content.php:64 template-parts/content-page.php:27
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+msgid "Posted In %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado en %s"
+
+#: inc/icon-functions.php:42
+msgid "Please define an SVG icon filename."
+msgstr "Por favor, define un nombre de archivo de iconos SVG."
+
+#: inc/customizer/theme-option.php:183
+msgid "Footer Copyright Text"
+msgstr "Texto de copyright del pie de página"
+
+#: inc/customizer/theme-option.php:166
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/customizer/theme-option.php:156
+msgid "Numeric"
+msgstr "Numérico"
+
+#: inc/customizer/theme-option.php:152
+msgid "Pagination Type"
+msgstr "Tipo de paginación"
+
+#: inc/customizer/theme-option.php:135
+msgid "Pagination Options"
+msgstr "Opciones de paginación"
+
+#: inc/customizer/theme-option.php:122
+msgid "Archive Excerpt Length"
+msgstr "Longitud del extracto en el archivo"
+
+#: inc/customizer/theme-option.php:88
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/theme-option.php:86
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/theme-option.php:87
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer/theme-option.php:83
+msgid "Sidebar Options"
+msgstr "Opciones de barra lateral"
+
+#: inc/customizer/theme-option.php:66
+msgid "Boxed"
+msgstr "Ancho fijo"
+
+#: inc/customizer/theme-option.php:65
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/customizer/theme-option.php:45
+msgid "Enable Banner Overlay"
+msgstr "Activar la superposición del banner"
+
+#: inc/customizer/theme-option.php:19
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/slider.php:131
+msgid "Select category to be shown on tab "
+msgstr "Selecciona la categoría a mostrar en la pestaña "
+
+#: inc/customizer/slider.php:130
+msgid "Category for slider"
+msgstr "Categoría para el carrusel"
+
+#: inc/customizer/slider.php:110
+msgid "Slider From Page"
+msgstr "Carrusel desde página"
+
+#: inc/customizer/slider.php:94
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer/slider.php:93
+msgid "Page"
+msgstr "Página"
+
+#: inc/customizer/slider.php:89
+msgid "Select Slider From"
+msgstr "Selecciona el contenido a mostrar en el carrusel"
+
+#: inc/customizer/slider.php:70
+msgid "Select no words of slider"
+msgstr "Selecciona el número de palabras del carrusel"
+
+#: inc/customizer/slider.php:53
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/slider.php:52
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/slider.php:51
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/slider.php:47
+msgid "Select no of slider"
+msgstr "Selecciona el número de diapositivas del carrusel"
+
+#: inc/customizer/slider.php:30
+msgid "Enable Slider"
+msgstr "Activar el carrusel"
+
+#: inc/customizer/slider.php:13
+msgid "Slider Options"
+msgstr "Opciones del carrusel"
+
+#: inc/customizer/featured-page.php:87
+msgid "Additional Button URL"
+msgstr "URL del botón adicional"
+
+#: inc/customizer/featured-page.php:71
+msgid "Additional Button Text"
+msgstr "Texto del botón adicional"
+
+#: inc/customizer/featured-page.php:55
+msgid "Section Button Text"
+msgstr "Texto del botón de la sección"
+
+#: inc/customizer/featured-page.php:40
+msgid "Select Featured Page from"
+msgstr "Seleccionar página destacada desde"
+
+#: inc/customizer/featured-page.php:24
+msgid "Enable Featured Page"
+msgstr "Activar la página destacada"
+
+#: inc/customizer/featured-page.php:7
+msgid "Featured Page Options"
+msgstr "Opciones de la página destacada"
+
+#: inc/customizer/featured-blog.php:48
+msgid "Select Category for Featured Blog"
+msgstr "Selecciona una categoría para el blog destacado"
+
+#: inc/customizer/featured-blog.php:30
+msgid "Enable Featured Blog"
+msgstr "Activar el blog destacado"
+
+#: inc/customizer/featured-blog.php:13
+msgid "Featured Image Gallery"
+msgstr "Galería de imágenes destacada"
+
+#: inc/customizer/default.php:45
+msgid "Copyright All rights reserved"
+msgstr "Copyright. Todos los derechos reservados"
+
+#: inc/customizer/default.php:41
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: inc/customizer/default.php:32
+msgid "BUY NOW"
+msgstr "COMPRAR AHORA"
+
+#: inc/customizer/default.php:31
+msgid "VIEW MORE"
+msgstr "VER MÁS"
+
+#: inc/custom-hooks.php:369
+msgid "Disable Featured Image on single page"
+msgstr "Desactivar la imagen destacada en las páginas individuales"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:171
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:142
+msgid "Footer Column 3"
+msgstr "Columna 3 del pie de página"
+
+#: functions.php:133
+msgid "Footer Column 2"
+msgstr "Columna 2 del pie de página"
+
+#: functions.php:126 functions.php:135 functions.php:144
+msgid "Displays items on footer section."
+msgstr "Mostrar elementos en la sección del pie de página."
+
+#: functions.php:124
+msgid "Footer Column 1"
+msgstr "Columna 1 del pie de página"
+
+#: functions.php:117
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "Barra lateral "
+
+#: functions.php:49
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: functions.php:48 header.php:82
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:69
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:47
+msgid "Footer Social Links Menu"
+msgstr "Menú de enlaces sociales del pie de página"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un pensamiento en &ldquo;%1$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: inc/icon-functions.php:37
+msgid "Please define default parameters in the form of an array."
+msgstr "Por favor, define los parámetros predeterminados en forma de array."
+
+#: inc/customizer/theme-option.php:105
+msgid "Button Text for Read More"
+msgstr "Texto del botón \"Leer más\""
+
+#: inc/customizer/theme-option.php:62
+msgid "Theme Layout"
+msgstr "Layout del tema"
+
+#: inc/customizer/theme-option.php:28
+msgid "Layout Management"
+msgstr "Gestión del layout"
+
+#: inc/customizer/slider.php:48
+msgid "If you are using selection \"from page\" option please refresh to get actual no of page"
+msgstr "Si estás utilizando la opción \"desde la página\", por favor, actualiza para obtener el número real de la página"
+
+#: inc/custom-hooks.php:332
+msgid "Layout Options"
+msgstr "Opciones del layout"
+
+#. Author URI of the theme
+msgid "https://unitedtheme.com/"
+msgstr "https://unitedtheme.com/"
+
+#. Author of the theme
+msgid "UnitedTheme"
+msgstr "UnitedTheme"
+
+#. Theme URI of the theme
+msgid "https://unitedtheme.com/themes/photography-blog/"
+msgstr "https://unitedtheme.com/themes/photography-blog/"
